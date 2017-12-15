@@ -793,6 +793,7 @@ crush
 crushed
 crushing
 cry
+crying
 culpable
 culprit
 cumbersome
@@ -3031,6 +3032,7 @@ nettle
 nettlesome
 neurotic
 neurotically
+nigger
 niggle
 niggles
 nightmare
