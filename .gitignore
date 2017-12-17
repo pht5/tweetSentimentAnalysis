@@ -1,5 +1,5 @@
 twitter_auth.json
 *~
 *.swp
-.ipynb*
+.ipynb_checkpoints/*
 
